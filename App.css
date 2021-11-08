@@ -1,0 +1,18 @@
+.navbar {
+  background-color: burlywood;
+  padding: 15px;
+  text-align: center;
+}
+
+.container {
+  margin-left: 150px;
+ }
+
+.search {
+  display: flex;
+  justify-content: center;
+}
+
+.filteredName {
+  text-align: center;
+}
